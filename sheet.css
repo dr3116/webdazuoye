@@ -1,5 +1,5 @@
 .top{
-	width:1900px;
+	width:1920px;
 	height:190px;
 	background-color:rgb(255,255,255);
 	border-bottom:4px solid rgb(58,167,71);
@@ -126,7 +126,7 @@ a{
 			color:rgb(58,167,71);			
 }
 .banner img{
-	width:1900px;
+	width:1920px;
 }
 .body{
 	width:1200px;
@@ -484,7 +484,7 @@ a{
 	line-height:20px;
 	}
 .footer{
-	width:1900px;
+	width:1920px;
 	height:100px;
 	background-color:rgb(245,245,245);
 	position:relative;
@@ -545,7 +545,7 @@ a{
 	border-right-color:rgb(224,224,224);
 }
 .bottom{
-	width:1900px;
+	width:1920px;
 	height:100px;
 	background-color:rgb(50,50,50);
 	position:relative;
